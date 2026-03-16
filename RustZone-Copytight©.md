@@ -66,10 +66,10 @@
 
 <div align="center">
     <p><strong>CONTACT US / СВЯЗАТЬСЯ С НАМИ</strong></p>
-    <a href="https://discord.gg/yourlink">
+    <a href="https://discord.gg/VSve9YFuPY">
         <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
     </a>
-    <a href="https://t.me/yourlink">
+    <a href="https://t.me/rustzone_vst">
         <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
     <br>
