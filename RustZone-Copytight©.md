@@ -1,5 +1,5 @@
 <div align="center">
-    <img src="https://raw.githubusercontent.com/WexsaviR/RustZone-Docs/main/rustzone-logo.png" alt="RustZone Logo" width="220"/>
+    <img src="https://raw.githubusercontent.com/WexsaviR/RustZone-Docs/refs/heads/main/images/rustzone-logo.png" alt="RustZone Logo" width="220"/>
     <br>
     <h1>[🇷🇺 RUS] ПОЛЬЗОВАТЕЛЬСКОЕ СОГЛАШЕНИЕ</h1>
     <h2>Minecraft Сервер «RustZone»</h2>
