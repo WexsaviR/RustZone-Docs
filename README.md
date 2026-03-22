@@ -4,12 +4,12 @@ Welcome to the official repository for **RustZone** Minecraft server documentati
 
 ## 🇷🇺 Описание
 Этот репозиторий содержит публичную оферту и графические ресурсы проекта. 
-* **Оферта:** [Прочитать здесь](index.md)
+* **Оферта:** [Прочитать здесь](https://wexsavir.github.io/RustZone-Docs/)
 * **Статус проекта:** В разработке
 
 ## 🇺🇸 Description
 This repository hosts the public offer and graphical assets for the project.
-* **Agreement:** [Read here](index.md)
+* **Agreement:** [Read here](https://wexsavir.github.io/RustZone-Docs/)
 * **Project Status:** In Development
 
 ---
